@@ -1,0 +1,98 @@
+40-Question MBTI Assessment
+Instructions
+Rate each statement according to how well it describes you on a scale of 1-5:
+1 = Strongly Disagree
+2 = Somewhat Disagree
+3 = Neutral
+4 = Somewhat Agree
+5 = Strongly Agree
+Extraversion (E) vs. Introversion (I)
+
+I feel energized after spending time with a large group of people.
+I prefer to think out loud and discuss ideas with others.
+I tend to take initiative in social situations.
+I often act first and think later.
+I have a wide circle of friends and acquaintances.
+I feel drained after extended periods of solitude.
+I enjoy being the center of attention.
+I prefer working in team environments rather than independently.
+I find it easy to approach and talk to strangers.
+I tend to express my thoughts and feelings openly.
+
+Sensing (S) vs. Intuition (N)
+
+I focus more on present realities than future possibilities.
+I trust information that comes directly from my five senses.
+I prefer detailed, step-by-step instructions.
+I value practical applications over theoretical concepts.
+I notice specific details in my environment rather than overall patterns.
+I prefer working with concrete facts and figures rather than exploring ideas and theories.
+I tend to describe things in literal, straightforward terms.
+I focus on what is actual and real rather than what could be or might happen.
+I prefer routine and consistency over variety and change.
+I am more interested in learning practical skills than conceptual theories.
+
+Thinking (T) vs. Feeling (F)
+
+I make decisions based primarily on logic and objective analysis.
+I value truth over tact when giving feedback.
+I remain detached and analytical when making important decisions.
+I believe it's more important to be right than to be liked.
+I prefer to focus on tasks and results rather than people's feelings.
+I find it easy to critique others' work without worrying about their reactions.
+I seek logical consistency in arguments and am quick to point out flaws.
+I consider myself reasonable and level-headed more than compassionate and warm.
+I believe efficiency is more important than harmonious relationships.
+I tend to analyze situations before considering how others might feel.
+
+Judging (J) vs. Perceiving (P)
+
+I prefer having a detailed plan before starting a project.
+I feel stressed when things are disorganized or unstructured.
+I like to finish one project completely before starting another.
+I prefer clear deadlines and tend to complete work ahead of schedule.
+I find it satisfying to check items off my to-do list.
+I prefer to have things settled and decided rather than open-ended.
+I keep my living and working spaces neat and organized.
+I like to have a structured schedule and routine.
+I prefer to plan social activities in advance rather than be spontaneous.
+I find it important to follow established rules and procedures.
+
+Scoring Guide
+For each section, add up your scores for all ten questions.
+Extraversion (E) vs. Introversion (I)
+
+Score 10-25: Strong Introversion preference
+Score 26-35: Moderate Introversion preference
+Score 36-40: Slight Introversion preference
+Score 41-45: Slight Extraversion preference
+Score 46-50: Moderate Extraversion preference
+
+Sensing (S) vs. Intuition (N)
+
+Score 10-25: Strong Intuition preference
+Score 26-35: Moderate Intuition preference
+Score 36-40: Slight Intuition preference
+Score 41-45: Slight Sensing preference
+Score 46-50: Moderate Sensing preference
+
+Thinking (T) vs. Feeling (F)
+
+Score 10-25: Strong Feeling preference
+Score 26-35: Moderate Feeling preference
+Score 36-40: Slight Feeling preference
+Score 41-45: Slight Thinking preference
+Score 46-50: Moderate Thinking preference
+
+Judging (J) vs. Perceiving (P)
+
+Score 10-25: Strong Perceiving preference
+Score 26-35: Moderate Perceiving preference
+Score 36-40: Slight Perceiving preference
+Score 41-45: Slight Judging preference
+Score 46-50: Moderate Judging preference
+
+Your four-letter MBTI type is a combination of your preferences from each dichotomy.
+For example: INTJ = Introversion, Intuition, Thinking, Judging
+Note
+This is a simplified assessment and not a substitute for the official MBTI instrument administered by a qualified professional. For a more accurate assessment, consider taking the official MBTI through a certified practitioner.
